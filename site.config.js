@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Tech note",
+    title: "Tech Note",
     description: "So nice a day!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },

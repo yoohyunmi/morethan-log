@@ -1,13 +1,13 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "hyums",
+    name: "Hyums",
     image: "/vanilla.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Devops, Backend Developer",
     bio: "Passion X Constantly learning",
     email: "yoohm3@gmail.com",
-    linkedin: "hyums",
-    github: "hyums",
+    linkedin: "hyunmi",
+    github: "yoohyunmi",
     instagram: "",
   },
   projects: [
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "tech note",
+    title: "Tech note",
     description: "So nice a day!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
